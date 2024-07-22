@@ -1,4 +1,4 @@
-function App() {
+function HomePage() {
   return (
     <div className="container">
       <h1>Starter package</h1>
@@ -6,4 +6,4 @@ function App() {
   );
 }
 
-export default App;
+export default HomePage;
